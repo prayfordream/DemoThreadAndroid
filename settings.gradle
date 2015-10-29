@@ -1,1 +1,0 @@
-include ':app', ':multithreaddemo1', ':multithreaddemo2'
