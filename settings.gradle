@@ -1,0 +1,1 @@
+include ':app', ':demomultithread1', ':demomultithread2', ':demomultithread3', ':demomultithread4', ':demomultithread42', ':demomultithread5', ':demomultithread6'

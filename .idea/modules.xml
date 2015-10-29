@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoThreadAndroid.iml" filepath="$PROJECT_DIR$/DemoThreadAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread1/demomultithread1.iml" filepath="$PROJECT_DIR$/demomultithread1/demomultithread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread2/demomultithread2.iml" filepath="$PROJECT_DIR$/demomultithread2/demomultithread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread3/demomultithread3.iml" filepath="$PROJECT_DIR$/demomultithread3/demomultithread3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread4/demomultithread4.iml" filepath="$PROJECT_DIR$/demomultithread4/demomultithread4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread42/demomultithread42.iml" filepath="$PROJECT_DIR$/demomultithread42/demomultithread42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread42/demomultithread42.iml" filepath="$PROJECT_DIR$/demomultithread42/demomultithread42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread5/demomultithread5.iml" filepath="$PROJECT_DIR$/demomultithread5/demomultithread5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomultithread6/demomultithread6.iml" filepath="$PROJECT_DIR$/demomultithread6/demomultithread6.iml" />
+    </modules>
+  </component>
+</project>
